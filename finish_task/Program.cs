@@ -25,3 +25,4 @@ void GetArray(string[] array)
     }
     Console.WriteLine("]");
 }
+ 
